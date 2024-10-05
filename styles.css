@@ -13,3 +13,14 @@
 h2{
     color: lightblue;
 }
+
+.table{
+    border: 10px solid black;
+    margin: 10px;
+    display: inline-block
+}
+
+body{
+    background-color: blueviolet;
+}
+
